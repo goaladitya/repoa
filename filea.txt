@@ -1,2 +1,3 @@
 filea
 add something
+line 3
