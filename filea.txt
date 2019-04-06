@@ -2,8 +2,8 @@ keep
 keep this
 keep this line
 merge conflict
-bigger merge conflict
-
+merge conflict shouldn't occur
+no conflict
 
 
 dont delete
